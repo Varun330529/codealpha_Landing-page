@@ -1,3 +1,3 @@
-# codealpha_Background_Generator
-This is Background Generator.
+# codeAlpha_Landing_Page
+This is Landing page project.
 using Html css js
